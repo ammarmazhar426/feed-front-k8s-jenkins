@@ -37,7 +37,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2>Feedback Form build add by jenkins update Helm Chart 2</h2>
+      <h2>Feedback Form build add by jenkins update k8s</h2>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
